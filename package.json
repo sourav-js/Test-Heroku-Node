@@ -1,0 +1,23 @@
+{
+  "name": "test-heroku-node",
+  "version": "1.0.0",
+  "description": "This is Gupta Sourav",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav-js/Test-Heroku-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourav-js/Test-Heroku-Node/issues"
+  },
+  "homepage": "https://github.com/sourav-js/Test-Heroku-Node#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
